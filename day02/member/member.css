@@ -1,0 +1,18 @@
+.member {
+  width: 300px;
+  background-color: blue;
+  color: white;
+  border-radius: 30px;
+  padding: 20px 30px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.company {
+  background-color: black;
+}
+
+i {
+  width: 220px;
+  text-align: end;
+}
