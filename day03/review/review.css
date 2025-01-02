@@ -1,0 +1,57 @@
+.button {
+  width: fit-content;
+  background-color: red;
+  color: white;
+  border-radius: 20px;
+  border: none;
+  padding: 10px 20px;
+  margin-right: 20px;
+}
+
+.middle {
+  padding: 10px 30px;
+}
+
+.long {
+  padding: 10px 70px;
+}
+
+.apple {
+  color: white;
+  background-color: black;
+}
+
+.google {
+  border: 1px solid black;
+}
+
+.pillbuttom {
+  width: 300px;
+  border-radius: 20px;
+  padding: 10px;
+  text-align: center;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.mr {
+  margin-right: 10px;
+}
+
+.kakao {
+  width: 400px;
+  background-color: yellow;
+  padding: 10px 20px;
+  text-align: center;
+  font-weight: 700;
+  border-radius: 5px;
+}
+
+.chip {
+  width: fit-content;
+  padding: 5px;
+  font-weight: 600;
+  font-size: small;
+  border: 1px solid rgb(207, 203, 203);
+  border-radius: 3px;
+}

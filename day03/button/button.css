@@ -1,0 +1,25 @@
+.button {
+  width: fit-content;
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.square {
+  border: none;
+  border-radius: 3px;
+}
+
+.round {
+  border: none;
+  border-radius: 20px;
+}
+
+.middle {
+  padding: 10px 20px;
+}
+
+.long {
+  padding: 10px 70px;
+}
